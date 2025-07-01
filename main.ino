@@ -9,6 +9,7 @@ void setup(){
   pinMode(2, OUTPUT);
 }
 
+
 void loop() {
   digitalWrite(11, digitalRead(10) == LOW ? HIGH : LOW);
   digitalWrite(7,  digitalRead(6)  == LOW ? HIGH : LOW);
