@@ -13,7 +13,7 @@ This project demonstrates how to control multiple LEDs using push buttons with a
 
 ## Pin Connections
 
-| Arduino Pin | Breadboard Component | Description         |
+| Arduino Pin | Breadboard Component | Description        |
 |-------------|---------------------|---------------------|
 | 10          | Button 1            | Reads button state  |
 | 11          | LED 1               | Controls LED 1      |
