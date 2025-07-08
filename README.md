@@ -11,7 +11,7 @@ This project demonstrates how to control multiple LEDs using push buttons with a
 - 3x Push Buttons
 - Jumper Wires
 
-## Pin Connections
+## Wiring
 
 | Arduino Pin | Breadboard Component | Description        |
 |-------------|---------------------|---------------------|
