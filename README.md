@@ -1,6 +1,6 @@
 # Arduino LED Button Project
 
-This project demonstrates how to control multiple LEDs using push buttons with an Arduino UNO using [Tinkercad](https://www.tinkercad.com)
+This project demonstrates how to control multiple LEDs using push buttons with an Arduino using [Tinkercad](https://www.tinkercad.com)
 
 ## Components
 
