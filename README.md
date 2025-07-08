@@ -7,20 +7,20 @@ This project demonstrates how to control multiple LEDs using push buttons with a
 - Arduino Uno
 - Breadboard
 - 3x LEDs
-- 3x 460Ω Resistors
+- 3x 460 Ω Resistors
 - 3x Push Buttons
 - Jumper Wires
 
 ## Wiring
 
-| Arduino Pin | Breadboard Component | Description        |
-|-------------|---------------------|---------------------|
-| 10          | Button 1            | Reads button state  |
-| 11          | LED 1               | Controls LED 1      |
-| 6           | Button 2            | Reads button state  |
-| 7           | LED 2               | Controls LED 2      |
-| 1           | Button 3            | Reads button state  |
-| 2           | LED 3               | Controls LED 3      |
+| Arduino         | Breadboard          | Description         |
+|-----------------|---------------------|---------------------|
+| Pin 10          | Button 1            | Reads button state  |
+| Pin 11          | LED 1               | Controls LED 1      |
+| Pin 6           | Button 2            | Reads button state  |
+| Pin 7           | LED 2               | Controls LED 2      |
+| Pin 1           | Button 3            | Reads button state  |
+| Pin 2           | LED 3               | Controls LED 3      |
 
 ## Circuit Diagram
 
